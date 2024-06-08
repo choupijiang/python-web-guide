@@ -1,3 +1,4 @@
 Sphinx==1.3.4
 sphinx_rtd_theme
 sphinx-autobuild
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
